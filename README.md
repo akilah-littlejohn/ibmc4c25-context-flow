@@ -4,7 +4,17 @@
 # 🌊 ContextFlow
 
 **🚀 Transforming Customer Support Emails with AI + RAG using IBM Watsonx.ai**
+# Background
+A few weeks ago, I had an issue where a grocery delivery service charged me twice. Naturally, I emailed support. Two days later, I received a generic reply that didn’t even address my issue. When I finally got a real person, I had to repeat everything all over again.
 
+# The Spark
+That experience reminded me of a previous project I built—FormSense, which used natural language processing to understand messy user inputs and intelligently fill out forms.
+
+I realized I could apply that same core idea to emails: take unstructured communication, understand the user’s intent, and generate structured, actionable output.
+
+That’s how ContextFlow was born.
+
+And unfortunately, this isn’t just me—millions of customers experience this same frustrating cycle every day. Emails go unanswered for days. Responses are generic. Customers are forced to repeat information that companies should already know. Service quality becomes a coin toss, depending entirely on which agent picks up the email.
 ## 🔍 Overview
 
 Customer service teams receive countless emails daily — sorting them manually is slow, expensive, and inconsistent.
