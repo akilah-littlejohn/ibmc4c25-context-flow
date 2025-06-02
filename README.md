@@ -28,6 +28,7 @@ Built for the IBM Hackathon, ContextFlow advances the theme:
 * **Automation-Ready:** Includes a list of `automation_tasks` for ticketing, routing, and prioritization.
 * **Modern Stack:** NestJS backend, Angular 19 + Material frontend.
 * **Frontend Demo:** View results and simulate automation steps in a clean Angular UI.
+
 The Problem
 Every day, customers face long delays and generic responses after sending support emails, often receiving little acknowledgment or help. Urgent issues like billing disputes or service outages are treated as routine, while emails frequently land in the wrong department, forcing customers to start over. Lacking access to context like account history or prior interactions, agents make customers repeat information, adding to frustration. The support experience becomes inconsistent and unpredictable, hinging on which agent receives the email. This creates a broken system where even simple problems require multiple follow-ups, and complex issues often go unresolved.
 
