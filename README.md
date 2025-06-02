@@ -141,4 +141,4 @@ Body:
 *Passionate about building AI tools that simplify work and enhance human focus.*
 \[https://www.linkedin.com/in/akilah-littlejohn-426b5bb8/]
 
----blob/master/LICENSE).
+
