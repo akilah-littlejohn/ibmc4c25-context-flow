@@ -27,12 +27,14 @@ Built for the IBM Hackathon, ContextFlow advances the theme:
 * **Structured JSON Output:** Generates predictable JSON for downstream automation.
 * **Automation-Ready:** Includes a list of `automation_tasks` for ticketing, routing, and prioritization.
 * **Modern Stack:** NestJS backend, Angular 19 + Material frontend.
-* **Frontend Demo:** View results and simulate automation steps in a clean Angular UI.
+* **Frontend Demo:**** View results and simulate automation steps in a clean Angular UI.
 
-The Problem
+**The Problem**
+---
 Every day, customers face long delays and generic responses after sending support emails, often receiving little acknowledgment or help. Urgent issues like billing disputes or service outages are treated as routine, while emails frequently land in the wrong department, forcing customers to start over. Lacking access to context like account history or prior interactions, agents make customers repeat information, adding to frustration. The support experience becomes inconsistent and unpredictable, hinging on which agent receives the email. This creates a broken system where even simple problems require multiple follow-ups, and complex issues often go unresolved.
 
-The Solution
+**The Solution**
+---
 ContextFlow is an intelligent email automation engine that transforms customer emails into structured JSON blueprints, orchestrating enterprise processes in real time. By leveraging IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), it enriches each email with contextual data like CRM history and product knowledge to understand intent, sentiment, and urgency. The system then outputs automation-ready JSON, triggering workflows across platforms like Zendesk, Salesforce, and Slack. Designed for support managers and operations teams, ContextFlow puts companies in the position to have real-time dashboards, intelligent routing, and unlike traditional categorization tools, it directly converts natural language into executable business logic, creating a scalable, AI-powered operations layer.
 
 
